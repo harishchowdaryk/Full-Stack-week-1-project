@@ -1,0 +1,10 @@
+/* styles.css */
+body { font-family: Arial,sans-serif; margin:0; background:#f5faff; }
+header { background:#0353a4; color:#fff; text-align:center; padding:1em; }
+nav a { color:#fff; margin:0 0.5em; text-decoration:none; }
+section { background:#fff; margin:1em auto; padding:1em; max-width:600px; border-radius:10px; }
+h2 { color:#0353a4; }
+form { display:flex; flex-direction:column; }
+input, button { margin:0.4em 0; padding:0.5em; }
+button { background:#0353a4; color:#fff; border:none; border-radius:4px; cursor:pointer; }
+footer { text-align:center; margin:2em 0 0 0; color:#555; }
